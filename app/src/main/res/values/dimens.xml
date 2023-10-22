@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="page_margin">8dp</dimen>
+    <dimen name="spacer_height">1sp</dimen>
+    <dimen name="img_maxHeight">50dp</dimen>
+    <dimen name="img_minHeight">50dp</dimen>
+    <dimen name="txt_margin">5dp</dimen>
+</resources>
